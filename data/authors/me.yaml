@@ -11,7 +11,7 @@ name:
   pronouns: he/him
 
 postnominals:
-  - PhD
+  - Ph.D.
 
 status:
   icon: "🤖"
@@ -19,64 +19,129 @@ status:
 role: 准教授
 
 bio: |
-  大阪大学 大学院工学研究科 准教授。
-  ロボティクスとヒューマンロボットインタラクションを専門としています。
+  大阪大学大学院基礎工学研究科システム創成専攻の准教授。
+  認知発達ロボティクス、感情発達の計算論的モデリング、
+  ヒューマンロボットインタラクションを専門とする。
 
 affiliations:
-  - name: 大阪大学 大学院工学研究科
-    url: https://www.eng.osaka-u.ac.jp/
+  - name: 大阪大学大学院 基礎工学研究科 システム創成専攻
+    url: https://www.es.osaka-u.ac.jp/
+  - name: 東京大学 IRCN（ニューロインテリジェンス国際研究機構）
+    url: https://ircn.jp/
 
 links:
   - icon: at-symbol
-    url: mailto:your-email@eng.osaka-u.ac.jp
-    label: メール
+    url: mailto:horii.takato.es@osaka-u.ac.jp
+    label: E-mail
   - icon: brands/x
-    url: https://x.com/your-twitter
+    url: https://x.com/takato1414
   - icon: brands/github
-    url: https://github.com/your-github
+    url: https://github.com/takato1414
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=YOUR_ID
+    url: https://scholar.google.co.jp/citations?user=qo5NEIQAAAAJ&hl=ja
   - icon: academicons/orcid
-    url: https://orcid.org/YOUR_ORCID
+    url: https://orcid.org/0000-0001-6575-0396
 
 interests:
-  - ロボティクス
+  - 認知発達ロボティクス
+  - 感情発達の計算論的モデリング
   - ヒューマンロボットインタラクション
-  - （研究分野）
+  - 記号創発ロボティクス
+  - クオリア・意識の構成論的研究
+  - ロボット学習（模倣学習・強化学習・LLM）
 
 education:
   - degree: 博士（工学）
-    institution: 大阪大学
-    start: 2017-04-01
-    end: 2020-03-31
+    institution: 大阪大学大学院 工学研究科 知能・機能創成工学専攻
+    start: 2013-04-01
+    end: 2017-09-30
     summary: |
-      博士論文: XXXX
+      マルチモーダル知覚による感情発達の計算論的モデリングに関する研究。触覚優位性に基づく情動知覚の発達モデルを提案。
   - degree: 修士（工学）
-    institution: 大阪大学
-    start: 2015-04-01
-    end: 2017-03-31
+    institution: 大阪大学大学院 工学研究科 知能・機能創成工学専攻
+    start: 2011-04-01
+    end: 2013-03-31
+  - degree: 準学士（工学）
+    institution: 豊田工業高等専門学校 電子機械工学科
+    start: 2006-04-01
+    end: 2011-03-31
 
 experience:
   - role: 准教授
-    org: 大阪大学 大学院工学研究科
-    start: 20XX-XX-XX
+    org: 大阪大学大学院 基礎工学研究科 システム創成専攻
+    start: 2024-08-01
     summary: |
-      研究概要...
+      社会ロボット学グループ（吉川研究室）にて、感情・意識の構成論的研究、ロボット学習、ヒューマンロボットインタラクションの研究に従事。
+  - role: 連携研究者
+    org: 東京大学 国際高等研究所 ニューロインテリジェンス国際研究機構（IRCN）
+    start: 2025-04-01
+    summary: |
+      クオリア構造と情報構造の対応関係に関する研究。
+  - role: 講師
+    org: 大阪大学大学院 基礎工学研究科
+    start: 2020-04-01
+    end: 2024-07-31
+  - role: 助教
+    org: 大阪大学大学院 基礎工学研究科
+    start: 2019-04-01
+    end: 2020-03-31
+  - role: 特任助教
+    org: 電気通信大学大学院
+    start: 2018-04-01
+    end: 2019-03-31
+  - role: 特任研究員
+    org: 電気通信大学
+    start: 2017-10-01
+    end: 2018-03-31
+  - role: 日本学術振興会 特別研究員 (DC1)
+    org: 日本学術振興会
+    start: 2015-04-01
+    end: 2017-03-31
 
 skills:
-  - name: 技術スキル
+  - name: 研究スキル
     items:
       - label: ロボティクス
         level: 5
+      - label: 機械学習・深層学習
+        level: 5
+      - label: 確率的生成モデル
+        level: 5
+  - name: プログラミング
+    items:
       - label: Python
-        level: 4
+        level: 5
       - label: ROS
+        level: 4
+      - label: C/C++
         level: 4
 
 languages:
   - name: 日本語
     level: 5
     label: ネイティブ
-  - name: 英語
+  - name: English
     level: 4
-    label: 流暢
+    label: 学術論文・国際会議
+
+awards:
+  - title: Best Student Paper Award
+    awarder: 5th International Conference on Human-Agent Interaction (HAI 2017)
+    date: "2017-10-01"
+    summary: ヒューマンエージェントインタラクションに関する研究で受賞。
+    icon: hero/trophy
+  - title: 文部科学大臣奨励賞
+    awarder: 文部科学省
+    date: "2008-02-01"
+    summary: ディジタル技術検定1級（制御部門）の成績優秀により受賞。
+    icon: hero/trophy
+  - title: 高専ロボコン全国大会 ロボコン大賞
+    awarder: NHK高専ロボコン
+    date: "2004-11-01"
+    summary: 全国高等専門学校ロボットコンテストにてグランプリを受賞。
+    icon: hero/trophy
+  - title: ロボカップジャパンオープン 日本ロボット学会賞
+    awarder: 日本ロボット学会
+    date: "2017-05-01"
+    summary: ロボカップジャパンオープンでの成果に対して受賞。
+    icon: hero/trophy

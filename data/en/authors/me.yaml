@@ -4,45 +4,84 @@ name:
 role: Associate Professor
 
 bio: |
-  Associate Professor at Graduate School of Engineering, Osaka University.
-  Research interests include robotics and human-robot interaction.
+  Associate Professor at Graduate School of Engineering Science, Osaka University.
+  Research interests include cognitive developmental robotics, computational modeling
+  of emotional development, and human-robot interaction.
 
 affiliations:
-  - name: Graduate School of Engineering, Osaka University
-    url: https://www.eng.osaka-u.ac.jp/en/
+  - name: Graduate School of Engineering Science, Osaka University
+    url: https://www.es.osaka-u.ac.jp/en/
+  - name: IRCN, The University of Tokyo
+    url: https://ircn.jp/en/
 
 interests:
-  - Robotics
+  - Cognitive Developmental Robotics
+  - Computational Modeling of Emotional Development
   - Human-Robot Interaction
-  - (Research area)
+  - Symbol Emergence Robotics
+  - Qualia and Consciousness
+  - Robot Learning (Imitation / RL / LLM)
 
 education:
   - degree: Ph.D. in Engineering
     institution: Osaka University
-    start: 2017-04-01
-    end: 2020-03-31
+    start: 2013-04-01
+    end: 2017-09-30
     summary: |
-      Dissertation: XXXX
+      Computational modeling of emotional development through multimodal perception guided by tactile dominance.
   - degree: M.Eng.
     institution: Osaka University
-    start: 2015-04-01
-    end: 2017-03-31
+    start: 2011-04-01
+    end: 2013-03-31
+  - degree: Associate Degree in Engineering
+    institution: Toyota National College of Technology
+    start: 2006-04-01
+    end: 2011-03-31
 
 experience:
   - role: Associate Professor
-    org: Graduate School of Engineering, Osaka University
-    start: 20XX-XX-XX
+    org: Graduate School of Engineering Science, Osaka University
+    start: 2024-08-01
     summary: |
-      Research overview...
+      Social Robotics Group (Yoshikawa Lab). Research on emotion, consciousness, robot learning, and human-robot interaction.
+  - role: Collaborative Researcher
+    org: IRCN, The University of Tokyo
+    start: 2025-04-01
+    summary: |
+      Research on correspondence between qualia structures and information structures.
+  - role: Lecturer
+    org: Graduate School of Engineering Science, Osaka University
+    start: 2020-04-01
+    end: 2024-07-31
+  - role: Assistant Professor
+    org: Graduate School of Engineering Science, Osaka University
+    start: 2019-04-01
+    end: 2020-03-31
+  - role: Project Assistant Professor
+    org: The University of Electro-Communications
+    start: 2018-04-01
+    end: 2019-03-31
+  - role: JSPS Research Fellow (DC1)
+    org: Japan Society for the Promotion of Science
+    start: 2015-04-01
+    end: 2017-03-31
 
 skills:
-  - name: Technical Skills
+  - name: Research Skills
     items:
       - label: Robotics
         level: 5
+      - label: Machine Learning / Deep Learning
+        level: 5
+      - label: Probabilistic Generative Models
+        level: 5
+  - name: Programming
+    items:
       - label: Python
-        level: 4
+        level: 5
       - label: ROS
+        level: 4
+      - label: C/C++
         level: 4
 
 languages:
@@ -51,4 +90,4 @@ languages:
     label: Native
   - name: English
     level: 4
-    label: Fluent
+    label: Academic papers & conferences

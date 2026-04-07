@@ -13,18 +13,18 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "堀井隆斗"
     # Legal entity for copyright notices (defaults to name if not set)
-    organization: ""
+    organization: "大阪大学大学院 基礎工学研究科"
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "認知発達ロボティクス・ヒューマンロボットインタラクション"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
+    description: "堀井隆斗 - 大阪大学大学院基礎工学研究科 准教授。認知発達ロボティクス、感情発達の計算論的モデリング、ヒューマンロボットインタラクションの研究。"
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "MakeOwnable"              # Twitter/X handle for Twitter Cards (without @)
+      twitter: "takato1414"               # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -239,7 +239,7 @@ hugoblox:
   # Regional formatting preferences
   # ────────────────────────────────────────────────────────────────────────────
   locale:
-    date_format: "Jan 2, 2006"          # Go time format
+    date_format: "2006年1月2日"           # Go time format
     time_format: "3:04 PM"
     address_format: en-us
 

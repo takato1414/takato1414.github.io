@@ -1,22 +1,13 @@
 main:
-  - name: プロフィール
+  - name: ホーム
     url: /
     weight: 10
   - name: 業績
     url: /#papers
-    weight: 11
-  - name: 講演
-    url: /#talks
-    weight: 12
+    weight: 20
   - name: お知らせ
     url: /#news
-    weight: 13
-  - name: 職歴
-    url: experience/
-    weight: 20
-  - name: 研究
-    url: projects/
     weight: 30
-  - name: 授業
-    url: courses/
+  - name: 研究テーマ
+    url: projects/
     weight: 40
