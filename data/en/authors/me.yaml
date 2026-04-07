@@ -1,0 +1,54 @@
+name:
+  display: Takato Horii
+
+role: Associate Professor
+
+bio: |
+  Associate Professor at Graduate School of Engineering, Osaka University.
+  Research interests include robotics and human-robot interaction.
+
+affiliations:
+  - name: Graduate School of Engineering, Osaka University
+    url: https://www.eng.osaka-u.ac.jp/en/
+
+interests:
+  - Robotics
+  - Human-Robot Interaction
+  - (Research area)
+
+education:
+  - degree: Ph.D. in Engineering
+    institution: Osaka University
+    start: 2017-04-01
+    end: 2020-03-31
+    summary: |
+      Dissertation: XXXX
+  - degree: M.Eng.
+    institution: Osaka University
+    start: 2015-04-01
+    end: 2017-03-31
+
+experience:
+  - role: Associate Professor
+    org: Graduate School of Engineering, Osaka University
+    start: 20XX-XX-XX
+    summary: |
+      Research overview...
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: Robotics
+        level: 5
+      - label: Python
+        level: 4
+      - label: ROS
+        level: 4
+
+languages:
+  - name: Japanese
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: Fluent

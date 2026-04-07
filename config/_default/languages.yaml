@@ -1,6 +1,6 @@
-# 日本語（デフォルト言語）
+# デフォルト言語（日本語）
 ja:
-  languageCode: ja
+  locale: ja
   contentDir: content/ja
   title: "堀井隆斗 | 大阪大学"
   params:
@@ -8,7 +8,7 @@ ja:
 
 # 英語
 en:
-  languageCode: en
+  locale: en-us
   contentDir: content/en
   title: "Takato Horii | Osaka University"
   params:
