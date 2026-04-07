@@ -4,15 +4,15 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: ''
+title: "堀井隆斗 | 大阪大学"
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: "https://takato1414.github.io/"
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ja
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
