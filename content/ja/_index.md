@@ -43,6 +43,30 @@ sections:
       columns: '1'
 
   - block: collection
+    id: news
+    content:
+      title: お知らせ
+      filters:
+        folders:
+          - blog
+      count: 3
+    design:
+      view: article-grid
+      columns: 3
+
+  - block: collection
+    id: projects
+    content:
+      title: 研究プロジェクト
+      filters:
+        folders:
+          - projects
+      count: 3
+    design:
+      view: article-grid
+      columns: 3
+
+  - block: collection
     id: papers
     content:
       title: 主要論文
@@ -64,27 +88,4 @@ sections:
         exclude_featured: false
     design:
       view: citation
-
-  - block: collection
-    id: news
-    content:
-      title: お知らせ
-      subtitle: ''
-      text: ''
-      page_type: blog
-      count: 10
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      offset: 0
-      order: desc
-    design:
-      view: card
-      spacing:
-        padding: [0, 0, 0, 0]
 ---

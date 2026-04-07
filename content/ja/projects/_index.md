@@ -1,24 +1,21 @@
 ---
-title: 'Projects'
+title: '研究プロジェクト'
 date: 2024-05-19
 type: landing
 
 design:
-  # Section spacing
   spacing: '5rem'
 
-# Page sections
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: 研究プロジェクト
+      text: 認知発達ロボティクスを軸に、人間の心の理解とロボットの知能化を目指す多角的な研究を展開しています。
       filters:
         folders:
           - projects
     design:
       view: article-grid
-      fill_image: false
       columns: 3
       show_date: false
       show_read_time: false
