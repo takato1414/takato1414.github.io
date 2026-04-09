@@ -5,6 +5,9 @@ ja:
   title: "堀井隆斗 | 大阪大学"
   params:
     description: "堀井隆斗（大阪大学 准教授）の個人サイト"
+    hugoblox:
+      identity:
+        name: "堀井隆斗"
 
 # 英語
 en:
@@ -13,3 +16,6 @@ en:
   title: "Takato Horii | Osaka University"
   params:
     description: "Personal website of Takato Horii, Associate Professor at Osaka University"
+    hugoblox:
+      identity:
+        name: "Takato Horii"
