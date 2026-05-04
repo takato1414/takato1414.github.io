@@ -2,15 +2,18 @@ main:
   - name: ホーム
     url: /
     weight: 10
-  - name: 経歴詳細
-    url: experience/
-    weight: 20
   - name: お知らせ
     url: /#news
+    weight: 20
+  - name: 経歴詳細
+    url: experience/
     weight: 30
   - name: 研究プロジェクト
     url: projects/
     weight: 40
-  - name: 業績
+  - name: 主要論文
     url: /#papers
     weight: 50
+  - name: 業績詳細
+    url: publications/
+    weight: 60

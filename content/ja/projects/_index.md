@@ -10,7 +10,7 @@ sections:
   - block: collection
     content:
       title: 研究プロジェクト
-      text: 認知発達ロボティクスを軸に、人間の心の理解とロボットの知能化を目指す多角的な研究を展開しています。
+      text: 認知発達・記号創発ロボティクスを軸に、人間の心の理解とロボットの知能化を目指す多角的な研究を展開しています。
       filters:
         folders:
           - projects
