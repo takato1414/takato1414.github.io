@@ -8,9 +8,12 @@ main:
   - name: 経歴詳細
     url: experience/
     weight: 30
+  - name: 研究テーマ
+    url: research/
+    weight: 40
   - name: 研究プロジェクト
     url: projects/
-    weight: 40
+    weight: 45
   - name: 主要論文
     url: /#papers
     weight: 50

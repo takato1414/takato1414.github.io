@@ -1,5 +1,5 @@
 ---
-title: '研究プロジェクト'
+title: '研究テーマ'
 date: 2024-05-19
 type: landing
 
@@ -9,11 +9,11 @@ design:
 sections:
   - block: collection
     content:
-      title: 研究プロジェクト
-      text: 科研費・JST・受託研究・産学連携など、参画している研究費プロジェクトを紹介します。
+      title: 研究テーマ
+      text: 認知発達・記号創発ロボティクスを軸に、人間の心の理解とロボットの知能化を目指す研究テーマを紹介します。
       filters:
         folders:
-          - projects
+          - research
     design:
       view: article-grid
       columns: 3
