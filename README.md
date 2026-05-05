@@ -1,152 +1,71 @@
-# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/hugo-theme-academic-cv)
+# 堀井隆斗 個人研究者サイト
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
+大阪大学大学院 基礎工学研究科 准教授 [堀井 隆斗](https://takato1414.github.io/) の個人研究者サイトのソースコードです。
 
-<h1 align="center">The Portfolio That Works While You Sleep</h1>
+🌐 **公開URL：** <https://takato1414.github.io/>
 
-<p align="center">
-  <strong>Your unfair advantage in academia.</strong><br/>
-  Stop sending PDFs into the void. Build a living portfolio that boosts citations and lands offers.<br/>
-  Trusted by 250,000+ researchers at <strong>MIT, Stanford, and Google</strong>.
-</p>
+## 概要
 
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>🚀 Launch Free (60s)</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/?open=academic-cv&loading=true&utm_source=github&utm_medium=readme">Live Demo</a>
-  &nbsp;•&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=ownable.ownable"><b>Visual Editor</b></a>
-</p>
+- **対象：** 研究紹介、論文・講演などの業績、研究プロジェクト、お知らせ
+- **構成：** 日本語（デフォルト） + 英語の2言語
+- **配信：** GitHub Pages による静的サイトホスティング
+- **テーマ：** [Hugo Blox（Academic CV テンプレート）](https://github.com/HugoBlox/hugo-theme-academic-cv) ベース
 
-<p align="center">
-  <a href="https://discord.gg/z8wNYzb"><img src="https://img.shields.io/discord/722225264733716590?label=Join%20Discord&style=social" alt="Discord"></a>
-  <a href="https://github.com/HugoBlox/hugo-theme-academic-cv"><img src="https://img.shields.io/github/stars/HugoBlox/hugo-theme-academic-cv?label=Star%20Academic%20CV&style=social" alt="GitHub Stars"></a>
-</p>
+## 技術スタック
 
----
+| 領域 | 採用技術 |
+|---|---|
+| 静的サイトジェネレータ | [Hugo](https://gohugo.io/) |
+| テーマ | Hugo Blox |
+| ホスティング | GitHub Pages |
+| ビルド／デプロイ | GitHub Actions |
 
-## Why This Template?
+## ローカル開発
 
-Most CVs are static PDFs that get lost in the pile. This is an **intelligent portfolio** that works 24/7 to advance your career.
+### 必要環境
+- [Hugo](https://gohugo.io/installation/)（extended版）
+- Node.js（pnpm 経由でアセット処理）
 
-- **🔮 Future-Proof:** Your content lives in simple **Markdown**. No database to break, no lock-in.
-- **🤖 AI-Ready:** Optimized for search engines and LLMs, so your work is found and cited.
-- **⚡ Zero Maintenance:** Auto-import citations from BibTeX and focus on research.
-- **✍️ Edit Visually:** Use **Ownable CMS** in VS Code — no coding needed. Full capabilities in Pro.
-
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme">
-    <img src="https://img.shields.io/badge/⚡️%20Get%20Your%20CV%20in%2060s-ff4655?style=for-the-badge" 
-    alt="Deploy this template" width="400">
-  </a>
-</p>
-
-![Ownable CMS in Action](https://raw.githubusercontent.com/HugoBlox/kit/main/.github/media/studio/slide-1.webp)
-*Ownable CMS: Drag-and-drop page builder inside VS Code.*
-
-> "My citations went up 3x after switching to this template. The citation auto-sync feature is a lifesaver."
-> — **Dr. Zhang**, AI Research Scientist, Meta
-
----
-
-## Who This Is For
-
-- Students and grads applying to top labs and industry roles
-- Researchers who want a living, citable portfolio
-- Faculty/PIs showcasing publications, talks, and group news
-
----
-
-## Features
-
-| Feature | Benefit |
-| :--- | :--- |
-| **Markdown, Jupyter, RStudio** | Write in the tools you already use. |
-| **Auto-Update Citations** | Drop in a BibTeX file; formatted lists generated automatically. |
-| **Visual Editor** | Drag-and-drop blocks to build pages in minutes. |
-| **Global CDN** | Blazing fast load times (100/100 Lighthouse scores). |
-| **Privacy First** | You own your data. Host for free on GitHub Pages. |
-
----
-
-## Notebook → Posts and Slides
-
-- Publish your actual `.ipynb` as beautiful long-form posts — code, outputs, and narrative kept intact.
-- Slides in Markdown with Reveal.js: math, syntax highlight, diagrams, speaker notes.
-- Coming soon: **Notebook → Slides (beta)**. Request early access in Discord.
-
-Learn more: docs on [Notebooks](https://docs.hugoblox.com/reference/markdown/#-notebooks) and [Slides](https://docs.hugoblox.com/guides/slides/).
-
----
-
-## Why Go Pro (from $8/m)
-
-- Enhanced Ownable CMS visual editor — save 10–20 hours setting up and polishing
-- Premium CV & Resumé designs — make an unforgettable first impression
-- Pro blocks, remove attribution, and priority support
-
----
-
-## Free vs Pro
-
-| Feature | Academic CV (Free) | Academic CV Pro & Resumé Pro |
-| --- | --- | --- |
-| Design | Professional & clean | Premium designs |
-| Layouts | Standard sections | Advanced timelines & layouts |
-| Courses/Lectures | Basic | Fully-Featured |
-| First Impression | Strong | Unforgettable |
-| Discord Support | Community | Priority |
-
-<p align="center">
-  <a href="https://hugoblox.com/pricing?utm_source=github&utm_medium=readme"><b>💎 Upgrade to Pro</b></a><br/>
-  <a href="https://hugoblox.com/templates/academic-cv-pro/start?utm_source=github&utm_medium=readme">✨ Deploy Academic CV Pro</a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/resume-pro/start?utm_source=github&utm_medium=readme">📄 Deploy Resumé Pro</a>
-</p>
-
----
-
-## Get Started
-
-### Option 1: No-Code (Fastest)
-Launch a fully hosted site in your browser. No software to install.
-
-👉 [**Launch in Browser (Free)**](https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme)
-
-### Option 2: Studio (Visual Editor)
-1) Install [Ownable CMS](https://marketplace.visualstudio.com/items?itemName=ownable.ownable) for VS Code  
-2) Open this project and edit visually
-
-### Option 3: CLI (Developers)
-1) Install [Hugo](https://docs.hugoblox.com/start/cli/)
-2) Create your site with the CLI:
+### プレビュー
 
 ```bash
-npx hugoblox create site --template academic-cv
+hugo server         # 公開コンテンツのみ
+hugo server -D      # 下書き（draft: true）も含めてプレビュー
 ```
 
----
+ローカル起動後、ブラウザで <http://localhost:1313/> を開いて確認します。
 
-## FAQ
+## ディレクトリ構成
 
-- Do I need to know Hugo? No — you can edit visually or write Markdown.
-- Can I host for free? Yes — GitHub Pages/Netlify are supported.
-- Can I export/migrate later? Yes — your site is just files.
-- Can I cancel Pro anytime? Yes.
+```
+.
+├── config/_default/        # Hugo / Hugo Blox 設定（hugo.yaml, params.yaml, menus.yaml など）
+├── content/
+│   ├── ja/                 # 日本語コンテンツ（デフォルト言語、URL ルート / に対応）
+│   │   ├── _index.md       # トップページ
+│   │   ├── experience.md   # 経歴詳細
+│   │   ├── blog/           # お知らせ
+│   │   ├── publications/   # 業績詳細・論文
+│   │   ├── projects/       # 進行中の研究プロジェクト
+│   │   ├── completed-projects/  # 終了した研究プロジェクト
+│   │   └── research/       # 研究テーマ
+│   └── en/                 # 英語コンテンツ（/en/ に対応）
+├── data/
+│   ├── authors/me.yaml     # 日本語プロフィール（schema: hugoblox/author/v1）
+│   └── en/authors/me.yaml  # 英語プロフィール（翻訳オーバーライド）
+├── assets/media/           # 画像
+├── static/uploads/         # PDF などのファイル配信
+├── layouts/                # カスタムテンプレート・ショートコード
+└── public/                 # ビルド出力（コミット対象外）
+```
 
----
+## コンテンツ更新の流れ
 
-## Community & Support
+1. `content/ja/...` 配下のMarkdownを編集
+2. `hugo server` でローカル確認
+3. `git commit` → `git push` → GitHub Actions が自動でビルド & 公開
 
-- 💬 [**Discord Community**](https://discord.gg/z8wNYzb)
-- 📚 [**Documentation**](https://docs.hugoblox.com/?utm_source=github&utm_medium=readme)
-- 🐦 [**Follow on X**](https://x.com/MakeOwnable)
-- ⭐ [**Star on GitHub**](https://github.com/HugoBlox/kit)
+## ライセンス
 
----
-
-MIT © 2016-Present [George Cushen](https://georgecushen.com)
-
-<!--START_SECTION:news-->
-<!--Updated at 2026-04-05T01:22:58.824Z-->
-<!--END_SECTION:news-->
+- サイトのコンテンツ（記事・画像など）：© 堀井 隆斗 — All rights reserved
+- サイト構築用テンプレート（[Hugo Blox Academic CV](https://github.com/HugoBlox/hugo-theme-academic-cv)）部分：MIT License

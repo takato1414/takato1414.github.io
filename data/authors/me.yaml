@@ -93,7 +93,7 @@ experience:
     org: 電気通信大学
     start: 2017-10-01
     end: 2018-03-31
-  - role: 日本学術振興会 特別研究員 (DC1)
+  - role: 日本学術振興会 特別研究員 (DC2)
     org: 日本学術振興会
     start: 2015-04-01
     end: 2017-03-31
@@ -125,23 +125,91 @@ languages:
     label: 学術論文・国際会議
 
 awards:
+  - title: 令和7年 HSRコミュニティ優秀成果賞
+    awarder: HSRコミュニティ
+    date: "2025-09-01"
+    icon: hero/trophy
+  - title: 人工知能学会全国大会 優秀賞
+    awarder: 人工知能学会
+    date: "2024-07-01"
+    icon: hero/trophy
+  - title: 人工知能学会全国大会 優秀賞
+    awarder: 人工知能学会
+    date: "2021-07-01"
+    icon: hero/trophy
+  - title: 第5回 HSRユーザ会 優秀成果賞
+    awarder: HSRユーザ会
+    date: "2020-10-01"
+    icon: hero/trophy
+  - title: 第3回 HSRユーザ会 優秀成果賞
+    awarder: HSRユーザ会
+    date: "2018-03-01"
+    icon: hero/trophy
+  - title: HAIシンポジウム2017 優秀ポスター発表賞
+    awarder: HAIシンポジウム2017
+    date: "2017-12-01"
+    icon: hero/trophy
   - title: Best Student Paper Award
     awarder: 5th International Conference on Human-Agent Interaction (HAI 2017)
     date: "2017-10-01"
-    summary: ヒューマンエージェントインタラクションに関する研究で受賞。
+    icon: hero/trophy
+  - title: 優秀発表賞
+    awarder: 日本赤ちゃん学会若手部会第5回研究合宿
+    date: "2017-09-01"
+    icon: hero/trophy
+  - title: 日本ロボット学会賞
+    awarder: ロボカップジャパンオープン2017
+    date: "2017-05-01"
+    icon: hero/trophy
+  - title: 第24回MAGDAコンファレンス 優秀ポスター講演論文賞
+    awarder: 日本AEM学会
+    date: "2015-11-01"
+    icon: hero/trophy
+  - title: Honorable Mention Poster Award
+    awarder: 2nd International Conference on Human-Agent Interaction
+    date: "2014-12-01"
+    icon: hero/trophy
+  - title: 研究会優秀賞
+    awarder: 人工知能学会
+    date: "2013-06-01"
+    icon: hero/trophy
+  - title: ロボカップ研究賞
+    awarder: ロボカップ日本委員会
+    date: "2013-05-01"
+    icon: hero/trophy
+  - title: 日本ロボット学会賞
+    awarder: ロボカップジャパンオープン2013
+    date: "2013-05-01"
+    icon: hero/trophy
+  - title: 人工知能学会賞
+    awarder: 第35回人工知能学会AIチャレンジ研究会
+    date: "2012-05-01"
+    icon: hero/trophy
+  - title: 学生表彰
+    awarder: 独立行政法人国立高等専門学校機構
+    date: "2011-03-01"
+    icon: hero/trophy
+  - title: 平成22年度 優秀学生顕彰 学術部門 優秀賞
+    awarder: 独立行政法人日本学生支援機構
+    date: "2010-12-01"
+    icon: hero/trophy
+  - title: 日本高専学会奨励賞
+    awarder: 日本高専学会
+    date: "2010-09-01"
+    icon: hero/trophy
+  - title: 日本ロボット学会賞
+    awarder: ロボカップジャパンオープン2010
+    date: "2010-05-01"
+    icon: hero/trophy
+  - title: 学生表彰
+    awarder: 独立行政法人国立高等専門学校機構
+    date: "2008-02-01"
     icon: hero/trophy
   - title: 文部科学大臣奨励賞
     awarder: 文部科学省
     date: "2008-02-01"
-    summary: ディジタル技術検定1級（制御部門）の成績優秀により受賞。
     icon: hero/trophy
-  - title: 高専ロボコン全国大会 ロボコン大賞
-    awarder: NHK高専ロボコン
+  - title: ロボコン大賞
+    awarder: 高専ロボコン全国大会
     date: "2004-11-01"
-    summary: 全国高等専門学校ロボットコンテストにてグランプリを受賞。
-    icon: hero/trophy
-  - title: ロボカップジャパンオープン 日本ロボット学会賞
-    awarder: 日本ロボット学会
-    date: "2017-05-01"
-    summary: ロボカップジャパンオープンでの成果に対して受賞。
     icon: hero/trophy
