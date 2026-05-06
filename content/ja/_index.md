@@ -46,14 +46,16 @@ sections:
     content:
       title: '所属研究室'
       text: |
-        <div style="display: flex; gap: 1.25rem; flex-wrap: wrap; justify-content: center; margin-top: 1rem;">
-          <a href="https://soro.sys.es.osaka-u.ac.jp/" target="_blank" rel="noopener" style="flex: 1 1 280px; max-width: 440px; display: block; padding: 1.1rem 1.4rem; border: 1px solid currentColor; border-radius: 0.75rem; text-decoration: none; color: inherit;">
-            <div style="font-weight: 700; font-size: 1.05rem; line-height: 1.4; margin-bottom: 0.35rem;">社会ロボット学グループ（吉川研究室）<span style="opacity: 0.6;"> →</span></div>
-            <div style="font-size: 0.82rem; opacity: 0.65;">大阪大学大学院 基礎工学研究科</div>
+        <div style="display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.25rem; max-width: 900px; margin: 1rem auto 0;">
+          <a href="https://soro.sys.es.osaka-u.ac.jp/" target="_blank" rel="noopener" style="display: block; padding: 1.1rem 1.4rem; border: 1px solid currentColor; border-radius: 0.75rem; text-decoration: none; color: inherit; text-align: center;">
+            <div style="font-weight: 700; font-size: 1.05rem; line-height: 1.4;">社会ロボット学グループ</div>
+            <div style="font-weight: 700; font-size: 1.05rem; line-height: 1.4; margin-bottom: 0.35rem;">（吉川研究室）</div>
+            <div style="font-size: 0.82rem; opacity: 0.65;">大阪大学</div>
           </a>
-          <a href="https://developmental-robotics.jp/" target="_blank" rel="noopener" style="flex: 1 1 280px; max-width: 440px; display: block; padding: 1.1rem 1.4rem; border: 1px solid currentColor; border-radius: 0.75rem; text-decoration: none; color: inherit;">
-            <div style="font-weight: 700; font-size: 1.05rem; line-height: 1.4; margin-bottom: 0.35rem;">認知発達ロボティクス研究室（長井研究室）<span style="opacity: 0.6;"> →</span></div>
-            <div style="font-size: 0.82rem; opacity: 0.65;">東京大学 IRCN（ニューロインテリジェンス国際研究機構）</div>
+          <a href="https://developmental-robotics.jp/" target="_blank" rel="noopener" style="display: block; padding: 1.1rem 1.4rem; border: 1px solid currentColor; border-radius: 0.75rem; text-decoration: none; color: inherit; text-align: center;">
+            <div style="font-weight: 700; font-size: 1.05rem; line-height: 1.4;">認知発達ロボティクス研究室</div>
+            <div style="font-weight: 700; font-size: 1.05rem; line-height: 1.4; margin-bottom: 0.35rem;">（長井研究室）</div>
+            <div style="font-size: 0.82rem; opacity: 0.65;">東京大学 IRCN</div>
           </a>
         </div>
     design:
