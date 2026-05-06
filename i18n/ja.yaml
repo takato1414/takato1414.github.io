@@ -1,2 +1,8 @@
 - id: more_posts
   translation: すべて表示
+
+- id: publication
+  translation: 論文誌
+
+- id: pub_article_journal
+  translation: ジャーナル
