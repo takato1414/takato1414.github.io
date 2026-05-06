@@ -12,10 +12,11 @@ funding:
     scheme: ムーンショット型研究開発事業 目標1
     agency: 内閣府／JST
     number: JPMJMS2011
-    role: 研究代表者（代表者変更）
-    period: 2024年1月 – 2025年11月
+    role: 研究代表者
+    period: 2024年1月 – 2030年11月
+    url: https://avatar-ss.org/activities/group04/index.html
     icon: rocket-launch
-    note: 「誰もが自在に活躍できるアバター共生社会の実現」プロジェクト
+    note: "「[誰もが自在に活躍できるアバター共生社会の実現](https://avatar-ss.org/index.html)」プロジェクト（2024年1月に代表者変更で引き継ぎ、2025年12月から継続課題）"
   - title: 説明できる自律化インタラクションAIの研究開発と育児・発達支援への応用
     scheme: 人と共に進化する次世代人工知能に関する技術開発事業
     agency: 新エネルギー・産業技術総合開発機構（NEDO）
@@ -55,7 +56,7 @@ funding:
     number: 23H04829
     role: 研究分担者
     period: 2023年4月 – 2028年3月
-    url: https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23H04829/
+    url: https://kaken.nii.ac.jp/ja/grant/KAKENHI-ORGANIZER-23H04829/
     icon: academic-cap
   - title: クオリア構造と情報構造の対応
     scheme: 学術変革領域研究(A) 計画
@@ -63,7 +64,7 @@ funding:
     number: 23H04834
     role: 研究分担者
     period: 2023年4月 – 2028年3月
-    url: https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23H04834/
+    url: https://kaken.nii.ac.jp/ja/grant/KAKENHI-PLANNED-23H04834/
     icon: academic-cap
   - title: インソールセンサ開発と個人足底情報ビッグデータ構築で切り開く足底科学
     scheme: 基盤研究(A)

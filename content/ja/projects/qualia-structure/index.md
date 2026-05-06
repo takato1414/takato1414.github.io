@@ -17,7 +17,7 @@ funding:
     pi: 土谷尚嗣
     pi_org: モナシュ大学
     period: 2023年4月 – 2028年3月
-    url: https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23H04829/
+    url: https://kaken.nii.ac.jp/ja/grant/KAKENHI-ORGANIZER-23H04829/
     icon: academic-cap
   - title: クオリア構造と情報構造の対応
     scheme: 学術変革領域研究(A) 計画
@@ -27,7 +27,7 @@ funding:
     pi: 大泉匡史
     pi_org: 東京大学
     period: 2023年4月 – 2028年3月
-    url: https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23H04834/
+    url: https://kaken.nii.ac.jp/ja/grant/KAKENHI-PLANNED-23H04834/
     icon: academic-cap
 ---
 
