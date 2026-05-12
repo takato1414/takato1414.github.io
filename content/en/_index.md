@@ -1,54 +1,98 @@
 ---
-# Leave the homepage title empty to use the site title
 title: ''
 summary: ''
 date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing
   spacing: '6rem'
 
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
       headings:
         about: 'Profile'
         education: ''
         interests: ''
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
-
-      # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
-
-      # Avatar customization
+        size: md
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: medium
+        shape: circle
+
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Can robots have emotions? How does the human mind develop?
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        Our research group explores these questions from the perspectives of cognitive developmental robotics and symbol emergence robotics. We work on the computational modeling of emotional development, human-robot interaction based on active inference, the correspondence between qualia structures and information structures, and the modeling of creativity. We also investigate behavior acquisition through imitation and reinforcement learning, robot action planning and task execution leveraging foundation models such as Large Language Models (LLMs) and Vision-Language Models (VLMs), and the construction of embodied intelligence grounded in the integration of multimodal information. Centered on robot learning, our research approaches the essence of intelligence from multiple angles.
     design:
       columns: '1'
+
+  - block: markdown
+    id: affiliations
+    content:
+      title: 'Affiliated Labs'
+      text: |
+        <div style="display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.25rem; max-width: 900px; margin: 1rem auto 0;">
+          <a href="https://soro.sys.es.osaka-u.ac.jp/" target="_blank" rel="noopener" style="display: block; padding: 1.1rem 1.4rem; border: 1px solid currentColor; border-radius: 0.75rem; text-decoration: none; color: inherit; text-align: center;">
+            <div style="font-weight: 700; font-size: 1.05rem; line-height: 1.4;">Social Robotics Group</div>
+            <div style="font-weight: 700; font-size: 1.05rem; line-height: 1.4; margin-bottom: 0.35rem;">(Yoshikawa Lab)</div>
+            <div style="font-size: 0.82rem; opacity: 0.65;">The University of Osaka</div>
+          </a>
+          <a href="https://developmental-robotics.jp/" target="_blank" rel="noopener" style="display: block; padding: 1.1rem 1.4rem; border: 1px solid currentColor; border-radius: 0.75rem; text-decoration: none; color: inherit; text-align: center;">
+            <div style="font-weight: 700; font-size: 1.05rem; line-height: 1.4;">Cognitive Developmental Robotics Lab</div>
+            <div style="font-weight: 700; font-size: 1.05rem; line-height: 1.4; margin-bottom: 0.35rem;">(Nagai Lab)</div>
+            <div style="font-size: 0.82rem; opacity: 0.65;">IRCN, The University of Tokyo</div>
+          </a>
+        </div>
+    design:
+      columns: '1'
+
+  - block: collection
+    id: news
+    content:
+      title: News
+      filters:
+        folders:
+          - blog
+      count: 3
+    design:
+      view: article-grid
+      columns: 3
+
+  - block: collection
+    id: research
+    content:
+      title: Research Topics
+      filters:
+        folders:
+          - research
+      count: 3
+    design:
+      view: article-grid
+      columns: 3
+
+  - block: collection
+    id: projects
+    content:
+      title: Research Projects
+      filters:
+        folders:
+          - projects
+      count: 3
+    design:
+      view: article-grid
+      columns: 3
+
   - block: collection
     id: papers
     content:
@@ -57,75 +101,8 @@ sections:
         folders:
           - publications
         featured_only: true
+      count: 4
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 10
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
-  - block: cta-card
-    demo: true # Only display this section in the HugoBlox Kit demo site
-    content:
-      title: 👉 Build your own academic website like this
-      text: |-
-        This site is generated by HugoBlox Kit - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
-
-        <a class="github-button" href="https://github.com/HugoBlox/kit" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/kit on GitHub">Star</a>
-
-        Easily build anything with blocks - no-code required!
-
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
 ---

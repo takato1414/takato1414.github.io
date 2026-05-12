@@ -1,22 +1,22 @@
 main:
-  - name: Bio
-    url: /
+  - name: Home
+    url: /en/
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
   - name: News
-    url: /#news
-    weight: 13
-  - name: Experience
-    url: experience/
+    url: /en/#news
     weight: 20
-  - name: Projects
-    url: projects/
+  - name: Experience
+    url: /en/experience/
     weight: 30
-  - name: Courses
-    url: courses/
+  - name: Research
+    url: /en/research/
     weight: 40
+  - name: Projects
+    url: /en/projects/
+    weight: 45
+  - name: Featured Papers
+    url: /en/#papers
+    weight: 50
+  - name: Publications
+    url: /en/publications/
+    weight: 60
