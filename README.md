@@ -1,8 +1,8 @@
 # 堀井隆斗 個人研究者サイト
 
-大阪大学大学院 基礎工学研究科 准教授 [堀井 隆斗](https://takato1414.github.io/) の個人研究者サイトのソースコードです。
+大阪大学大学院 基礎工学研究科 准教授 [堀井 隆斗](https://www.takatohorii.jp/) の個人研究者サイトのソースコードです。
 
-🌐 **公開URL：** <https://takato1414.github.io/>
+🌐 **公開URL：** <https://www.takatohorii.jp/>
 
 ## 概要
 
