@@ -1,6 +1,6 @@
 ---
 title: "Upcoming Talk at the 21st IEICE DPF Technical Meeting"
-date: 2026-05-28
+date: 2026-05-26
 tags:
   - Talks
   - Technical Meeting
