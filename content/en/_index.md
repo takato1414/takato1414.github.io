@@ -69,17 +69,29 @@ sections:
       view: article-grid
       columns: 3
 
+  - block: markdown
+    id: research-card-style
+    content:
+      title: ''
+      text: |
+        <style>
+        /* Hide tag chips inside the home Research section only (other sections unaffected) */
+        #research a[href^="/tags/"] { display: none !important; }
+        #research div:has(> a[href^="/tags/"]) { display: none !important; }
+        </style>
   - block: collection
     id: research
     content:
-      title: Research Topics
+      title: Research Themes
       filters:
-        folders:
-          - research
-      count: 3
+        tag: research-theme
+      count: 2
     design:
       view: article-grid
-      columns: 3
+      columns: 2
+      show_date: false
+      show_read_time: false
+      show_read_more: false
 
   - block: collection
     id: projects
