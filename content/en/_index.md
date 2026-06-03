@@ -37,26 +37,6 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    id: affiliations
-    content:
-      title: 'Affiliated Labs'
-      text: |
-        <div style="display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.25rem; max-width: 900px; margin: 1rem auto 0;">
-          <a href="https://soro.sys.es.osaka-u.ac.jp/" target="_blank" rel="noopener" style="display: block; padding: 1.1rem 1.4rem; border: 1px solid currentColor; border-radius: 0.75rem; text-decoration: none; color: inherit; text-align: center;">
-            <div style="font-weight: 700; font-size: 1.05rem; line-height: 1.4;">Social Robotics Group</div>
-            <div style="font-weight: 700; font-size: 1.05rem; line-height: 1.4; margin-bottom: 0.35rem;">(Yoshikawa Lab)</div>
-            <div style="font-size: 0.82rem; opacity: 0.65;">The University of Osaka</div>
-          </a>
-          <a href="https://developmental-robotics.jp/" target="_blank" rel="noopener" style="display: block; padding: 1.1rem 1.4rem; border: 1px solid currentColor; border-radius: 0.75rem; text-decoration: none; color: inherit; text-align: center;">
-            <div style="font-weight: 700; font-size: 1.05rem; line-height: 1.4;">Cognitive Developmental Robotics Lab</div>
-            <div style="font-weight: 700; font-size: 1.05rem; line-height: 1.4; margin-bottom: 0.35rem;">(Nagai Lab)</div>
-            <div style="font-size: 0.82rem; opacity: 0.65;">IRCN, The University of Tokyo</div>
-          </a>
-        </div>
-    design:
-      columns: '1'
-
   - block: collection
     id: news
     content:

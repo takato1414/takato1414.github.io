@@ -29,6 +29,18 @@ affiliations:
   - name: 東京大学 ニューロインテリジェンス国際研究機構
     url: https://ircn.jp/
 
+research_groups:
+  - name: 社会ロボット学グループ
+    sub: （吉川研究室）
+    org: 大阪大学
+    url: https://soro.sys.es.osaka-u.ac.jp/
+    logo: media/labs/yoshikawa-lab.png
+  - name: 認知発達ロボティクス研究室
+    sub: （長井研究室）
+    org: 東京大学 IRCN
+    url: https://developmental-robotics.jp/
+    logo: media/labs/nagai-lab.png
+
 links:
   - icon: at-symbol
     url: mailto:horii.takato.es@osaka-u.ac.jp

@@ -15,6 +15,18 @@ affiliations:
   - name: IRCN, The University of Tokyo
     url: https://ircn.jp/en/
 
+research_groups:
+  - name: Social Robotics Group
+    sub: (Yoshikawa Lab)
+    org: The University of Osaka
+    url: https://soro.sys.es.osaka-u.ac.jp/
+    logo: media/labs/yoshikawa-lab.png
+  - name: Cognitive Developmental Robotics Lab
+    sub: (Nagai Lab)
+    org: IRCN, The University of Tokyo
+    url: https://developmental-robotics.jp/
+    logo: media/labs/nagai-lab.png
+
 interests:
   - Cognitive Developmental Robotics
   - Computational Modeling of Emotional Development
