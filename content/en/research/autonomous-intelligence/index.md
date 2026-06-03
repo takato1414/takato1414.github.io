@@ -1,6 +1,6 @@
 ---
 title: Autonomous Intelligence Grounded in Robot Learning
-summary: A research cluster on building autonomous robots that act in the real world, using imitation learning, reinforcement learning, and foundation models (LLM/VLM). Topics span object manipulation, language understanding, intention inference, and human-robot cooperation.
+summary: A research cluster that uses imitation learning, reinforcement learning, and foundation models to build autonomous robots. Concept learning, motor skills, action planning, and human-robot interaction are central themes.
 tags:
   - research-theme
 type: landing
