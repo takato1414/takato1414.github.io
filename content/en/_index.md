@@ -31,6 +31,12 @@ sections:
       title: 'Research'
       subtitle: ''
       text: |-
+        <style>
+        /* Hide tag chips inside the home Research section only (other sections unaffected) */
+        #research a[href^="/tags/"] { display: none !important; }
+        #research div:has(> a[href^="/tags/"]) { display: none !important; }
+        </style>
+
         Can robots have emotions? How does the human mind develop?
 
         Our research group explores these questions from the perspectives of cognitive developmental robotics and symbol emergence robotics. We work on the computational modeling of emotional development, human-robot interaction based on active inference, the correspondence between qualia structures and information structures, and the modeling of creativity. We also investigate behavior acquisition through imitation and reinforcement learning, robot action planning and task execution leveraging foundation models such as Large Language Models (LLMs) and Vision-Language Models (VLMs), and the construction of embodied intelligence grounded in the integration of multimodal information. Centered on robot learning, our research approaches the essence of intelligence from multiple angles.
@@ -49,16 +55,6 @@ sections:
       view: article-grid
       columns: 3
 
-  - block: markdown
-    id: research-card-style
-    content:
-      title: ''
-      text: |
-        <style>
-        /* Hide tag chips inside the home Research section only (other sections unaffected) */
-        #research a[href^="/tags/"] { display: none !important; }
-        #research div:has(> a[href^="/tags/"]) { display: none !important; }
-        </style>
   - block: collection
     id: research
     content:

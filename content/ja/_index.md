@@ -35,6 +35,12 @@ sections:
       title: '研究について'
       subtitle: ''
       text: |-
+        <style>
+        /* ホーム「研究テーマ」セクション内のタグchipのみ非表示（お知らせ等は影響なし） */
+        #research a[href^="/tags/"] { display: none !important; }
+        #research div:has(> a[href^="/tags/"]) { display: none !important; }
+        </style>
+
         ロボットは感情をもつことができるのか？人間の心はどのように発達するのか？
 
         私たちの研究グループでは、認知発達ロボティクスや記号創発ロボティクスの観点から、人間の感情発達の計算論的モデリング、能動的推論に基づくヒューマンロボットインタラクション、クオリア構造と情報構造の対応関係の解明、そして創造性のモデリングに取り組んでいます。さらに、模倣学習や強化学習による行動獲得、大規模言語モデル（LLM）や視覚言語モデル（VLM）といった基盤モデルを活用したロボットの行動計画とタスク遂行、マルチモーダル情報の統合に基づく身体性を伴った知能の構築など、ロボット学習を軸に知能の本質に迫る多角的な研究を展開しています。
@@ -53,16 +59,6 @@ sections:
       view: article-grid
       columns: 3
 
-  - block: markdown
-    id: research-card-style
-    content:
-      title: ''
-      text: |
-        <style>
-        /* ホーム「研究テーマ」セクション内のタグchipのみ非表示（お知らせ等は影響なし） */
-        #research a[href^="/tags/"] { display: none !important; }
-        #research div:has(> a[href^="/tags/"]) { display: none !important; }
-        </style>
   - block: collection
     id: research
     content:
