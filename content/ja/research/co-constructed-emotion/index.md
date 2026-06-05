@@ -12,4 +12,5 @@ tags:
 関連論文：
 - 張澤 航, 堀井 隆斗, 谷口 忠大. 「マルチモーダル深層生成モデルとメトロポリス・ヘイスティング名付けゲームによる感情の記号創発」. *人工知能学会全国大会*, 2024.5.
 - Zehang Zhang, Nguyen Le Hoang, Tadahiro Taniguchi, Takato Horii. "[Emergent Communication for Co-constructed Emotion Between Embodied Agents via Collective Predictive Coding](https://arxiv.org/abs/2605.09522)". *arXiv:2605.09522*.
+- Tadahiro Taniguchi, Yasushi Hirai, Masahiro Suzuki, Shingo Murata, Takato Horii, Kazutoshi Tanaka. "[System 0/1/2/3: Quad-Process Theory for Multi-timescale Embodied Collective Cognitive Systems](https://doi.org/10.1162/artl.a.12)". *Artificial Life*, 31(4), 465-496, 2025.
 - 堀井 隆斗. 「身体的・社会的相互作用を通じた感情の構成的理解に向けて」. *ベビーサイエンス*, 24: 46-57, 2025.

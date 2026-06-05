@@ -10,5 +10,6 @@ tags:
 <!--more-->
 
 関連論文：
+- Site Hu, Takato Horii, Takayuki Nagai. "[Adaptive and transparent decision-making in autonomous robots through graph-structured world models](https://doi.org/10.1080/01691864.2024.2415995)". *Advanced Robotics*, 38(22), 1579-1599, 2024.
 - Tatsuya Sakai, Kazuki Miyazawa, Takato Horii, Takayuki Nagai. "[A Framework of Explanation Generation toward Reliable Autonomous Robots](https://doi.org/10.1080/01691864.2021.1946422)". *Advanced Robotics*, 35(17), 1054-1067, 2021.
 - 境 辰也, 堀井 隆斗, 長井 隆行. 「[Graph2vecを用いた世界モデルの分散表現獲得と他者世界モデルの推定](https://doi.org/10.7210/jrsj.40.166)」. *日本ロボット学会誌*, 40(2), 166-169, 2022.

@@ -12,4 +12,5 @@ tags:
 関連論文：
 - Takato Horii, Yukie Nagai. "[Active Inference through Energy Minimization in Multimodal Affective Human-Robot Interaction](https://doi.org/10.3389/frobt.2021.684401)". *Frontiers in Robotics and AI*, 2021.
 - Takato Horii, Yukie Nagai, Minoru Asada. "[Imitation of human expressions based on emotion estimation by mental simulation](https://doi.org/10.1515/pjbr-2016-0004)". *Paladyn, Journal of Behavioral Robotics*, 7(1), 40-54, December 2016.
+- 長井 志江, 堀井 隆斗. 「[予測学習に基づく情動の計算論的モデル](https://www.jstage.jst.go.jp/article/jjsai/31/5/31_694/_article/-char/ja)」. *人工知能*, 31(5), 694-701, 2016.9.
 - 堀井 隆斗. 「身体的・社会的相互作用を通じた感情の構成的理解に向けて」. *ベビーサイエンス*, 24: 46-57, 2025.

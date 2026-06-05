@@ -12,4 +12,5 @@ We computationally model the process by which multiple agents **co-construct** e
 Related papers:
 - Zehang Zhang, Takato Horii, Tadahiro Taniguchi. "Symbol Emergence of Emotion via Multimodal Deep Generative Models and Metropolis–Hastings Naming Games" (in Japanese). *Annual Conference of the Japanese Society for Artificial Intelligence (JSAI)*, May 2024.
 - Zehang Zhang, Nguyen Le Hoang, Tadahiro Taniguchi, Takato Horii. "[Emergent Communication for Co-constructed Emotion Between Embodied Agents via Collective Predictive Coding](https://arxiv.org/abs/2605.09522)". *arXiv:2605.09522*.
+- Tadahiro Taniguchi, Yasushi Hirai, Masahiro Suzuki, Shingo Murata, Takato Horii, Kazutoshi Tanaka. "[System 0/1/2/3: Quad-Process Theory for Multi-Timescale Embodied Collective Cognitive Systems](https://doi.org/10.1162/artl.a.12)". *Artificial Life*, 31(4), 465-496, 2025.
 - Takato Horii. "Toward Constructive Understanding of Emotion through Bodily and Social Interactions" (in Japanese). *Baby Science*, 24: 46-57, 2025.
