@@ -37,6 +37,22 @@ Hugo Academic (HugoBlox) + GitHub Pages。
 - スライド: `content/{lang}/slides/`
 - プロフィール詳細: `content/{lang}/experience.md`
 
+### お知らせ運用ルール（講演の予告→報告）★★★
+- **1イベント＝1記事**。「講演します（予告）」と「講演しました（報告）」で別記事を作らない！
+- 講演前に「〜します」で投稿し、**講演後は同じ記事を編集して報告に更新する**：
+  - タイトルを過去形（「〜しました」）に変更
+  - 本文を予告→報告のトーンに更新
+  - 講演資料（PDF/埋め込み）を追記
+  - `date:` を講演日に更新するとお知らせ一覧の先頭に再浮上する
+- スラッグ（フォルダ名）は変えない → 予告時に共有したSNSリンクがそのまま報告記事になる
+- 記事は削除しない。非表示にしたい場合は `expiryDate:` か `draft: true` を使う（ファイルは残す）
+
+### 講演資料（スライド）の公開方法
+- 資料PDFは `static/uploads/` にクリーンなASCII名で1箇所配置（例: `jass2026-horii-slides.pdf`）し、`/uploads/xxx.pdf` からリンク
+- 記事はページバンドル（`content/{lang}/blog/<slug>/index.md`）にし、表紙画像を `featured.jpg` として日英両方に配置（Twitterカード = summary_large_image が自動生成される）
+- 宣伝時はPDF直リンクではなく**記事ページURL**をツイートする（カードが出て自サイトに誘導できる）
+- **PDFは Git LFS 管理**（`.gitattributes` の `*.pdf filter=lfs`）。CIビルドは `.github/workflows/build.yml` の checkout に `lfs: true` が必要（無いとポインタファイルが配信されリンク切れになる）
+
 ### 多言語構成（デフォルト：日本語）
 - 日本語: `content/ja/`（デフォルト言語 → `/` に生成）
 - 英語: `content/en/`（第2言語 → `/en/` に生成）
