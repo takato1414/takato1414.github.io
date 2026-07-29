@@ -77,8 +77,8 @@ sections:
     content:
       title: 原著論文
       text: |
-        1. Xiaoxu Feng, Takato Horii. "[Distance-Aware World Model-based Reinforcement Learning for Mobile Manipulation Behaviors](https://doi.org/10.1109/ACCESS.2026.3695694)". *IEEE Access*, Early Access, 2026.
-        1. Seiichi Yamamoto, Hiroki Ishizuka, Takumi Kawasetsu, Koh Hosoda, Takayuki Kameoka, Kango Yanagida, Takato Horii, Yusuke Sakaue, Sei Ikeda, Osamu Oshiro. "[External Photoreflective Tactile Sensing Based on Surface Deformation Measurement](https://doi.org/10.1109/JSEN.2026.3686632)". *IEEE Sensors Journal*, Early Access, 2026.
+        1. Xiaoxu Feng, Takato Horii. "[Distance-Aware World Model-based Reinforcement Learning for Mobile Manipulation Behaviors](https://doi.org/10.1109/ACCESS.2026.3695694)". *IEEE Access*, Vol. 14, pp. 78614-78629, 2026.
+        1. Seiichi Yamamoto, Hiroki Ishizuka, Takumi Kawasetsu, Koh Hosoda, Takayuki Kameoka, Kango Yanagida, Takato Horii, Yusuke Sakaue, Sei Ikeda, Osamu Oshiro. "[External Photoreflective Tactile Sensing Based on Surface Deformation Measurement](https://doi.org/10.1109/JSEN.2026.3686632)". *IEEE Sensors Journal*, Vol. 26, No. 11, pp. 17634-17646, 2026.
         1. Siddharth Padmanabhan, Kazuki Miyazawa, Takato Horii. "[LocoGPT: GPT-Based Multi-Humanoid-Task Policy for Humanoid Locomotion](https://doi.org/10.1109/ACCESS.2026.3661568)". *IEEE Access*, Vol. 14, 2026.
         1. 粕谷 美里, 阿部 香澄, 藤野 恭子, 堀井 隆斗. 「[遠隔コミュニケーションにおける初期関係構築支援のための『実況遊び』手法の提案とツール開発](https://www.rsj.or.jp/pub/jrsj/advpub/260219-05.html)」. *日本ロボット学会誌*, オンライン, 2026.
         1. Hu Site, Takayuki Nagai, Takato Horii. "[TARAD: Task-Aware Robot Affordance-Centric Diffusion Policy Learned From LLM-Generated Demonstrations](https://doi.org/10.1109/LRA.2025.3598998)". *IEEE Robotics and Automation Letters*, August 2025.
