@@ -128,6 +128,7 @@ sections:
     content:
       title: International Conferences
       text: |
+        1. Kentaro Nomura, Takato Horii. "Social Reality Construction via Active Inference: Modeling the Dialectic of Conformity and Creativity". *2026 Conference on Artificial Life (ALIFE)*, Waterloo, August 2026.
         1. Site Hu, Takayuki Nagai, Takato Horii. "TARAD: Task-Aware Robot Affordance-Centric Diffusion Policy Learned From LLM-Generated Demonstrations". *2026 IEEE International Conference on Robotics & Automation (ICRA)*, 2026.
         1. Xiaoxu Feng, Takato Horii, Takayuki Nagai. "Predictive Reachability for Embodiment Selection in Mobile Manipulation Behaviors". *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2025.
         1. Kazuya Horibe, Takato Horii, Keisuke Suzuki. "Collective Phase Dynamics in an Active Inference Swarm Oscillator". *Proceedings of the ALIFE 2025: Ciphers of Life*, Kyoto, October 2025. DOI: 10.1162/ISAL.a.902.

@@ -10,5 +10,6 @@ tags:
 <!--more-->
 
 関連論文：
+- Kentaro Nomura, Takato Horii. "[Social Reality Construction via Active Inference: Modeling the Dialectic of Conformity and Creativity](https://arxiv.org/abs/2604.09026)". *2026 Conference on Artificial Life (ALIFE)*, Waterloo, 2026.8.
 - 野村 健太郎, 堀井 隆斗. 「能動的推論に基づく社会規範形成および創造性のモデル化」. *人工知能学会全国大会*, 2026.6.
 - Kentaro Nomura, Takato Horii. "[Social Reality Construction via Active Inference: Modeling the Dialectic of Conformity and Creativity](https://arxiv.org/abs/2604.09026)". *arXiv:2604.09026*.
