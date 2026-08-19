@@ -61,5 +61,17 @@ markup:
     lineNos: false
 security:
   _merge: deep
+  exec:
+    # Hugoのデフォルト許可リストを明示（配列は上書きされるため全項目を列挙）。
+    # tailwindcss を明示することで、Hugoのバージョンやデフォルト値の変更に
+    # 依存せず Tailwind CSS のビルドが通るようにする。
+    allow:
+      - '^(dart-)?sass(-embedded)?$'
+      - '^go$'
+      - '^git$'
+      - '^npx$'
+      - '^postcss$'
+      - '^tailwindcss$'
+      - '^node$'
 sitemap:
   _merge: deep
