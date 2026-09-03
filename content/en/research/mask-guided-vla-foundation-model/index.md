@@ -10,5 +10,5 @@ We extend vision-language-action (VLA) foundation models with **attention-guided
 <!--more-->
 
 Related papers:
-- Shogo Yanagida, Tatsuya Aoki, Tadahiro Taniguchi, Takato Horii. "Mask-guided VLA: Introducing Vision-Language Instructions with Attention-Guided Mask Images" (in Japanese). *Annual Conference of the Japanese Society for Artificial Intelligence (JSAI)*, June 2026.
-- Shogo Yanagida, Tatsuya Aoki, Tadahiro Taniguchi, Takato Horii. "A Robot Foundation Model Understanding Language and Visual Instructions via Alpha-Channel Attention Control" (in Japanese). *43rd Annual Conference of the Robotics Society of Japan*, September 2025.
+- Kango Yanagida, Tatsuya Aoki, Tadahiro Taniguchi, Takato Horii. "Mask-guided VLA: Introducing Vision-Language Instructions with Attention-Guided Mask Images" (in Japanese). *Annual Conference of the Japanese Society for Artificial Intelligence (JSAI)*, June 2026.
+- Kango Yanagida, Tatsuya Aoki, Tadahiro Taniguchi, Takato Horii. "A Robot Foundation Model Understanding Language and Visual Instructions via Alpha-Channel Attention Control" (in Japanese). *43rd Annual Conference of the Robotics Society of Japan*, September 2025.
