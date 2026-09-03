@@ -17,4 +17,6 @@ tags:
 
 （〇は登壇者）
 
+関連論文：[Stay Seated: Learning Omnidirectional Humanoid Locomotion on a Passive Mobile Chair with Casters](https://arxiv.org/abs/2608.28090)（arXiv:2608.28090）
+
 詳細は[RSJ2026 公式サイト](https://ac.rsj-web.org/2026/)をご覧ください。
