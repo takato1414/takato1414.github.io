@@ -13,7 +13,7 @@ Our lab will give the following four presentations at the 40th Annual Conference
 ### Organized Session: Physical AI in the Era of Foundation Models
 
 [**[2G4-OS-47a-01] Mask-guided VLA: Introducing Vision-Language Instructions with Attention-Guided Mask Images**](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/2G4-OS-47a-01)
-*Shogo Yanagida (Osaka Univ.), Tatsuya Aoki (Osaka Univ.), Tadahiro Taniguchi (Kyoto Univ. / Ritsumeikan Univ.), Takato Horii (Osaka Univ. / IRCN, Univ. of Tokyo)*
+*Kango Yanagida (Osaka Univ.), Tatsuya Aoki (Osaka Univ.), Tadahiro Taniguchi (Kyoto Univ. / Ritsumeikan Univ.), Takato Horii (Osaka Univ. / IRCN, Univ. of Tokyo)*
 Tuesday, June 9, 2026, 13:30–15:00 — Room G (Main Hall A)
 
 [**[2G6-OS-47c-06] Inference-Time Correction of Flow Matching Policies Using Collision Risk Prediction**](https://pub.confit.atlas.jp/ja/event/jsai2026/presentation/2G6-OS-47c-06)
