@@ -23,8 +23,51 @@
 ## ローカル開発
 
 ### 必要環境
-- [Hugo](https://gohugo.io/installation/)（extended版）
-- Node.js（pnpm 経由でアセット処理）
+
+| ツール | バージョン | 用途 |
+|---|---|---|
+| Git + **Git LFS** | 最新 | PDF（`static/uploads/*.pdf`）は LFS 管理。LFS なしだと PDF が130バイトのポインタファイルになる |
+| **Hugo extended** | **0.159.2**（`hugoblox.yaml` で固定） | サイト生成。extended 版必須 |
+| Go | 1.19 以上 | Hugo Modules（HugoBlox テーマ）の取得 |
+| Node.js + pnpm | Node 20 / pnpm 10 | Tailwind CSS・Pagefind のビルド |
+
+### 新しい PC でのセットアップ
+
+**macOS（Homebrew）**
+
+```bash
+brew install git git-lfs hugo go node
+git lfs install
+corepack enable   # pnpm が使えるようになる
+```
+
+**Windows（winget）**
+
+```powershell
+winget install Git.Git GitHub.GitLFS Hugo.Hugo.Extended GoLang.Go OpenJS.NodeJS.LTS
+git lfs install
+corepack enable
+```
+
+Homebrew / winget の Hugo は最新版が入ります。通常はそのまま動きますが、CI と完全に揃えたい場合は
+[Hugo Releases](https://github.com/gohugoio/hugo/releases/tag/v0.159.2) から extended 版 0.159.2 を入れてください。
+
+**リポジトリの取得と初回ビルド**
+
+```bash
+git clone https://github.com/takato1414/takato1414.github.io.git
+cd takato1414.github.io
+git lfs pull        # PDF の実体を取得
+pnpm install        # Tailwind / Pagefind
+hugo server -D      # http://localhost:1313/ で下書き込みプレビュー
+```
+
+`hugo server` の初回は Hugo Modules（テーマ）のダウンロードが走るため数十秒かかります。
+
+**Claude Code を使う場合**
+
+- ブラウザ版（claude.ai/code）はクラウド上で動くため PC 側の準備は不要です。
+- ローカル CLI を使う場合は `npm install -g @anthropic-ai/claude-code` を入れ、リポジトリ直下で `claude` を実行します。`CLAUDE.md` の運用ルールが自動で読み込まれます。
 
 ### プレビュー
 
@@ -34,6 +77,15 @@ hugo server -D      # 下書き（draft: true）も含めてプレビュー
 ```
 
 ローカル起動後、ブラウザで <http://localhost:1313/> を開いて確認します。
+
+### よくあるトラブル
+
+| 症状 | 原因と対処 |
+|---|---|
+| PDF が開けない、`git status` で PDF が常に modified | Git LFS 未導入。`git lfs install && git lfs pull` |
+| `TAILWINDCSS: access denied` | Hugo が古い。0.159.2 以上に更新 |
+| `hugo` が extended でないと言われる | 非 extended 版が入っている。extended 版を入れ直す |
+| `pnpm: command not found` | `corepack enable` を実行（Node 16.9 以降に同梱） |
 
 ## ディレクトリ構成
 
