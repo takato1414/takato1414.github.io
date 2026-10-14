@@ -128,6 +128,7 @@ sections:
     content:
       title: International Conferences
       text: |
+        1. Tin Mišić, Takato Horii. "Sensory Precision Inference for Multimodal Arbitration under Uncertainty". *7th International Workshop on Active Inference (IWAI 2026)*, Madrid, October 2026.
         1. Kentaro Nomura, Takato Horii. "Social Reality Construction via Active Inference: Modeling the Dialectic of Conformity and Creativity". *2026 Conference on Artificial Life (ALIFE)*, Waterloo, August 2026.
         1. Site Hu, Takayuki Nagai, Takato Horii. "TARAD: Task-Aware Robot Affordance-Centric Diffusion Policy Learned From LLM-Generated Demonstrations". *2026 IEEE International Conference on Robotics & Automation (ICRA)*, 2026.
         1. Xiaoxu Feng, Takato Horii, Takayuki Nagai. "Predictive Reachability for Embodiment Selection in Mobile Manipulation Behaviors". *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2025.
