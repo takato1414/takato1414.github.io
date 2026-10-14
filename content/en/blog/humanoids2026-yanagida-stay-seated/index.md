@@ -16,6 +16,4 @@ A paper by Kango Yanagida of our lab has been accepted at the **2026 IEEE-RAS 25
 
 In this work, a humanoid robot learns omnidirectional seated locomotion: it stays seated on an ordinary office chair with casters and pushes off the floor with its feet to move forward, backward, sideways, and turn. The chair has no motors, and the policy uses only the robot's proprioception and a velocity command, with no chair pose, wheel state, or contact sensing. The policy is trained in simulation and transferred zero-shot to a Unitree G1. Just as people delegate weight support to a chair during desk work, this is a first step toward seated loco-manipulation for humanoids.
 
-The presentation type (oral or interactive) and schedule will be announced later. This post will be updated once they are available.
-
 This work was also presented at the 44th Annual Conference of the Robotics Society of Japan ([announcement](/en/blog/rsj2026-yanagida-seated-locomotion/)). For details, see the [Humanoids 2026 official website](https://2026.ieee-humanoids.org/) and [arXiv:2608.28090](https://arxiv.org/abs/2608.28090).
