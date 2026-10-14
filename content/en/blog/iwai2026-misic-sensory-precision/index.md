@@ -10,11 +10,11 @@ Tin Mišić of our lab gave the following oral presentation at the 7th Internati
 
 <!--more-->
 
-**Sensory Precision Inference for Multimodal Arbitration under Uncertainty**
-*Tin Mišić, Takato Horii (Osaka Univ.)*
+**[Sensory Precision Inference for Multimodal Arbitration under Uncertainty](https://arxiv.org/abs/2609.15065)**
+*Tin Mišić (Osaka Univ.), Takato Horii (Osaka Univ. / IRCN, The University of Tokyo)*
 October 14, 2026 (Wed), 10:30–11:30 (local time)
 Contributed Talks, Session 1 "Predictive Coding and Representations" (Chair: Pablo Lanillos)
 
-The talk addresses how an agent can infer sensory precision within the active inference framework, and use it to arbitrate how much to rely on each sensory modality under uncertainty.
+Real-world sensory streams are often corrupted by noise, missing data, or conflicts between modalities. This work proposes a multimodal active inference model in which latent beliefs and modality-specific sensory precisions are jointly updated through iterative free-energy minimization, so that the agent adaptively arbitrates how much to rely on each sense. A learned prior over sensory precisions further yields structured, class-dependent and interpretable precision patterns. Experiments on a synthetic multimodal MNIST dataset combining visual, auditory, and tactile representations show robust reconstruction under corrupted input, coherent belief formation from partial observations, and stable arbitration between conflicting modalities.
 
-For details, see the [IWAI 2026 official website](https://iwaiworkshop.github.io/) and the [detailed program (PDF)](https://iwaiworkshop.github.io/docs/IWAI_2026_program_detailed.pdf).
+For details, see the [IWAI 2026 official website](https://iwaiworkshop.github.io/), the [detailed program (PDF)](https://iwaiworkshop.github.io/docs/IWAI_2026_program_detailed.pdf), and the paper on [arXiv:2609.15065](https://arxiv.org/abs/2609.15065).
