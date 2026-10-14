@@ -162,6 +162,7 @@ sections:
     content:
       title: 国際会議
       text: |
+        1. Kango Yanagida, Kazuki Miyazawa, Takato Horii. "[Stay Seated: Learning Omnidirectional Humanoid Locomotion on a Passive Mobile Chair with Casters](https://arxiv.org/abs/2608.28090)". *2026 IEEE-RAS 25th International Conference on Humanoid Robots (Humanoids)*, Santa Clara, December 2026.
         1. Tin Mišić, Takato Horii. "[Sensory Precision Inference for Multimodal Arbitration under Uncertainty](https://arxiv.org/abs/2609.15065)". *7th International Workshop on Active Inference (IWAI 2026)*, Madrid, October 2026.
         1. Kentaro Nomura, Takato Horii. "Social Reality Construction via Active Inference: Modeling the Dialectic of Conformity and Creativity". *2026 Conference on Artificial Life (ALIFE)*, Waterloo, August 2026.
         1. Site Hu, Takayuki Nagai, Takato Horii. "TARAD: Task-Aware Robot Affordance-Centric Diffusion Policy Learned From LLM-Generated Demonstrations". *2026 IEEE International Conference on Robotics & Automation (ICRA)*, 2026.
