@@ -142,6 +142,7 @@ sections:
     content:
       title: 招待講演
       text: |
+        1. Takato Horii. "From Language to Coordination: Multi-Robot Task Planning with LLMs and Optimization". NYU CREO Seminar Series, NYU Tandon School of Engineering, New York, 2026.10.
         1. 堀井 隆斗. 「予測的処理に基づく感情発達と親子間相互作用」. 日本赤ちゃん学会若手部会 若手研究セミナー, 大阪大学豊中キャンパス, 2026.7.
         1. 堀井 隆斗. 「Cybernetic AvatarからPhysical AIへ：身体拡張と技能継承を核とした自律化戦略」. 電子情報通信学会 第21回DPF研究会, 2026.6.
         1. 堀井 隆斗. 「大規模言語モデルを用いた複数ロボット協調とVLAへのマルチモーダル指示提示」. 第2回OCEANSワークショップ, 大阪大学吹田キャンパス, 2026.3.
