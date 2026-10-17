@@ -118,6 +118,7 @@ sections:
     content:
       title: Invited Talks
       text: |
+        1. Takato Horii. "From Language to Coordination: Multi-Robot Task Planning with LLMs and Optimization". *NYU CREO Seminar Series*, NYU Tandon School of Engineering, New York, 2026.
         1. Takato Horii. "Emotion as Emergent Symbols from Physical and Social Interactions". *Eighth International Workshop on Symbolic-Neural Learning (SNL2024)*, 2024.
         1. Takato Horii. "How Are Emotional Structures Formed? — A Computational Approach Toward the Understanding of Emotional Qualia". *Area Meeting on Correspondence between Qualia Structures and Information Structures from Brain Activity*, 2022.
         1. Takato Horii. "Towards Retroduction Agent: Prediction and Representation Learning in Embodied Intelligence". *Workshop on Trends and Advances in Integrating Machine Learning and Automated Reasoning for Intelligent Robots and Systems, IROS 2022*, 2022.
