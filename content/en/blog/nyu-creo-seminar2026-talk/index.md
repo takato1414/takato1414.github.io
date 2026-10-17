@@ -11,4 +11,4 @@ On October 2, 2026, I gave a talk titled "**From Language to Coordination: Multi
 
 The talk covered multi-robot task planning and coordination that combines large language models (LLMs) with optimization, centered on [LiP-LLM](/en/publications/lip-llm2025/), which integrates linear programming and dependency graphs with LLMs for multi-robot task planning. I also discussed applications such as integrating robots and simulation in shipyards.
 
-Great questions from the audience led to lively discussions. Many thanks to everyone who invited me!
+Great questions from the audience led to lively discussions. Many thanks to Nana Obayashi and Kento Kawaharazuka for inviting me!
