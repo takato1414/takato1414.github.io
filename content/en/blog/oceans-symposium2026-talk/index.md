@@ -1,12 +1,12 @@
 ---
-title: "Upcoming Talk at the 2nd Osaka University OCEANS Symposium"
-date: 2026-05-27
+title: "Talk at the 2nd Osaka University OCEANS Symposium"
+date: 2026-06-24
 tags:
   - Talks
   - Symposium
 ---
 
-I will give a talk and join a panel discussion at the **2nd Osaka University OCEANS Symposium — "Down-to-Earth AI Development with the Maritime Industry,"** to be held on Wednesday, June 24, 2026 at the MO Hall, 3F Convention Center, Osaka University Suita Campus.
+I gave a talk and joined a panel discussion at the **2nd Osaka University OCEANS Symposium — "Down-to-Earth AI Development with the Maritime Industry,"** held on Wednesday, June 24, 2026 at the MO Hall, 3F Convention Center, Osaka University Suita Campus.
 
 <!--more-->
 
@@ -15,6 +15,4 @@ I will give a talk and join a panel discussion at the **2nd Osaka University OCE
 
 The symposium is hosted by the Graduate School of Engineering, Osaka University, in partnership with Imabari Shipbuilding, Japan Marine United, ClassNK, and MTI. It focuses on practical AI development for the shipbuilding and maritime industries.
 
-Admission is free. The on-site venue is limited to 150 attendees (registration required); online participation has no capacity limit.
-
-For details and registration, please visit the [official symposium website](https://oceanssymposium.cinema-eye.jp/).
+For details, please visit the [official symposium website](https://oceanssymposium.cinema-eye.jp/).

@@ -1,12 +1,12 @@
 ---
-title: "Presenting \"TARAD\" at ICRA 2026"
-date: 2026-05-28
+title: "Presented \"TARAD\" at ICRA 2026"
+date: 2026-06-02
 tags:
   - Conference Presentations
   - International Conference
 ---
 
-I will present our paper "TARAD: Task-Aware Robot Affordance-Centric Diffusion Policy Learned from LLM-Generated Demonstrations" at the **IEEE International Conference on Robotics and Automation (ICRA 2026)**, held June 1–5, 2026 in Vienna, Austria.
+I presented our paper "TARAD: Task-Aware Robot Affordance-Centric Diffusion Policy Learned from LLM-Generated Demonstrations" at the **IEEE International Conference on Robotics and Automation (ICRA 2026)**, held June 1–5, 2026 in Vienna, Austria.
 
 <!--more-->
 

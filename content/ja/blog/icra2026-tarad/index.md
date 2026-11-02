@@ -1,12 +1,12 @@
 ---
-title: "ICRA 2026にて「TARAD」を発表します"
-date: 2026-05-28
+title: "ICRA 2026にて「TARAD」を発表しました"
+date: 2026-06-02
 tags:
   - 学会発表
   - 国際会議
 ---
 
-2026年6月1日〜5日にオーストリア・ウィーンで開催される **IEEE International Conference on Robotics and Automation (ICRA 2026)** にて、論文 "TARAD: Task-Aware Robot Affordance-Centric Diffusion Policy Learned from LLM-Generated Demonstrations" を発表します。
+2026年6月1日〜5日にオーストリア・ウィーンで開催された **IEEE International Conference on Robotics and Automation (ICRA 2026)** にて、論文 "TARAD: Task-Aware Robot Affordance-Centric Diffusion Policy Learned from LLM-Generated Demonstrations" を発表しました。
 
 <!--more-->
 

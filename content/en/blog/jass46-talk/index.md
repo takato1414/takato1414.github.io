@@ -1,6 +1,7 @@
 ---
 title: "Talk at the 46th Annual Conference of the Japanese Association for Semiotic Studies"
 date: 2026-06-05
+draft: true
 tags:
   - Talks
   - Conferences

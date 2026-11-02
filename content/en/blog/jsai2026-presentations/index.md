@@ -1,12 +1,12 @@
 ---
 title: "Four Presentations at JSAI 2026 (40th Annual Conference of JSAI)"
-date: 2026-05-27
+date: 2026-06-09
 tags:
   - Conference Presentations
   - Student Activities
 ---
 
-Our lab will give the following four presentations at the 40th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI 2026), to be held June 8–12, 2026 at G-Messe Gunma and online.
+Our lab gave the following four presentations at the 40th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI 2026), held June 8–12, 2026 at G-Messe Gunma and online.
 
 <!--more-->
 

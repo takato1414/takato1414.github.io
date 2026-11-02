@@ -1,12 +1,12 @@
 ---
 title: "Four Presentations at ROBOMECH 2026"
-date: 2026-06-27
+date: 2026-06-28
 tags:
   - Conference Presentations
   - Student Activities
 ---
 
-Our lab will give the following four presentations at the Robotics and Mechatronics Conference 2026 ([ROBOMECH 2026](https://robomech.org/2026/), June 28 – July 1, 2026, Fukuoka International Congress Center).
+Our lab gave the following four presentations at the Robotics and Mechatronics Conference 2026 ([ROBOMECH 2026](https://robomech.org/2026/), June 28 – July 1, 2026, Fukuoka International Congress Center).
 
 <!--more-->
 

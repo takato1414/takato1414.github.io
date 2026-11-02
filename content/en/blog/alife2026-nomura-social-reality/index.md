@@ -1,12 +1,12 @@
 ---
-title: "Kentaro Nomura to Present at the 2026 Conference on Artificial Life (ALIFE 2026)"
+title: "Kentaro Nomura Presented at the 2026 Conference on Artificial Life (ALIFE 2026)"
 date: 2026-08-19
 tags:
   - Conference Presentations
   - Student Activities
 ---
 
-Kentaro Nomura of our lab will give the following presentation at the 2026 Conference on Artificial Life ([ALIFE 2026](https://2026.alife.org/), August 17–21, 2026, Waterloo, Canada), whose theme is "Living and Lifelike Complex Adaptive Systems."
+Kentaro Nomura of our lab gave the following presentation at the 2026 Conference on Artificial Life ([ALIFE 2026](https://2026.alife.org/), August 17–21, 2026, Waterloo, Canada), whose theme is "Living and Lifelike Complex Adaptive Systems."
 
 <!--more-->
 

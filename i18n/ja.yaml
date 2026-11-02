@@ -6,3 +6,28 @@
 
 - id: pub_article_journal
   translation: ジャーナル
+
+# テーマ側で日本語訳が未定義だったUI文言（英語のまま表示されていたもの）
+- id: read_more
+  translation: 続きを読む
+
+- id: experience
+  translation: 経歴
+
+- id: about_me
+  translation: プロフィール概要
+
+- id: backlinks
+  translation: このページへのリンク
+
+- id: questions
+  translation: 質問
+
+- id: faq
+  translation: よくある質問
+
+- id: docs
+  translation: ドキュメント
+
+- id: poweredby_button
+  translation: 'サイトを作る →'
