@@ -1,12 +1,12 @@
 ---
-title: "人工生命国際会議（ALIFE 2026）にて野村健太郎さんが発表します"
+title: "人工生命国際会議（ALIFE 2026）にて野村健太郎さんが発表しました"
 date: 2026-08-19
 tags:
   - 学会発表
   - 学生の活躍
 ---
 
-人工生命国際会議（[ALIFE 2026](https://2026.alife.org/)、2026年8月17日〜21日、カナダ・ウォータールー、テーマ「Living and Lifelike Complex Adaptive Systems」）にて、研究室の野村健太郎さんが以下の発表を行います。
+人工生命国際会議（[ALIFE 2026](https://2026.alife.org/)、2026年8月17日〜21日、カナダ・ウォータールー、テーマ「Living and Lifelike Complex Adaptive Systems」）にて、研究室の野村健太郎さんが以下の発表を行いました。
 
 <!--more-->
 
