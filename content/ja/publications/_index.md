@@ -142,6 +142,7 @@ sections:
     content:
       title: 招待講演
       text: |
+        1. 堀井 隆斗. 「つなぐ身体、つながる予測 ― 認知発達ロボティクスで結ぶPhysical AIと発達モデル」. 日本発達神経科学会第15回学術集会 シンポジウム①, 早稲田大学, 2026.11.
         1. Takato Horii. "From Language to Coordination: Multi-Robot Task Planning with LLMs and Optimization". NYU CREO Seminar Series, NYU Tandon School of Engineering, New York, 2026.10.
         1. 堀井 隆斗. 「予測的処理に基づく感情発達と親子間相互作用」. 日本赤ちゃん学会若手部会 若手研究セミナー, 大阪大学豊中キャンパス, 2026.7.
         1. 堀井 隆斗. 「Cybernetic AvatarからPhysical AIへ：身体拡張と技能継承を核とした自律化戦略」. 電子情報通信学会 第21回DPF研究会, 2026.6.
