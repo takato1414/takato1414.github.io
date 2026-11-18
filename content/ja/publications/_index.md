@@ -77,6 +77,7 @@ sections:
     content:
       title: 原著論文
       text: |
+        1. Kento Kawaharazuka, Shunki Itadera, Kohei Honda, Takato Horii, Asako Kanezaki, Taisuke Kobayashi, Kenji Koide, Shuhei Kurita, Koshi Makihara, Kazuki Miyazawa, Masaki Murooka, Yuki Onishi, Satoshi Yagi, Satoshi Yamamori. "[From Instruction to Inheritance: Scaling Robot Learning Through Knowledge Circulation](https://doi.org/10.1002/aisy.70564)". *Advanced Intelligent Systems*, e70564, 2026.
         1. Xiaoxu Feng, Takato Horii. "[Distance-Aware World Model-based Reinforcement Learning for Mobile Manipulation Behaviors](https://doi.org/10.1109/ACCESS.2026.3695694)". *IEEE Access*, Vol. 14, pp. 78614-78629, 2026.
         1. Seiichi Yamamoto, Hiroki Ishizuka, Takumi Kawasetsu, Koh Hosoda, Takayuki Kameoka, Kango Yanagida, Takato Horii, Yusuke Sakaue, Sei Ikeda, Osamu Oshiro. "[External Photoreflective Tactile Sensing Based on Surface Deformation Measurement](https://doi.org/10.1109/JSEN.2026.3686632)". *IEEE Sensors Journal*, Vol. 26, No. 11, pp. 17634-17646, 2026.
         1. Siddharth Padmanabhan, Kazuki Miyazawa, Takato Horii. "[LocoGPT: GPT-Based Multi-Humanoid-Task Policy for Humanoid Locomotion](https://doi.org/10.1109/ACCESS.2026.3661568)". *IEEE Access*, Vol. 14, 2026.
@@ -164,6 +165,8 @@ sections:
     content:
       title: 国際会議
       text: |
+        1. Hiroshi Nitta, Takato Horii, Yusuke Moriguchi. "Perceptions of Robot Self-Recognition: Preliminary Evidence from Preschool-Aged Children and Adults". *2026 IEEE International Conference on Development and Learning (ICDL)*, Kyoto, September 2026.
+        1. Tin Mišić, Takato Horii. "[Sensory Precision Inference for Multimodal Arbitration under Uncertainty](https://arxiv.org/abs/2609.15065)". *2026 IEEE International Conference on Development and Learning (ICDL)*, Late-Breaking Report, Kyoto, September 2026.
         1. Kango Yanagida, Kazuki Miyazawa, Takato Horii. "[Stay Seated: Learning Omnidirectional Humanoid Locomotion on a Passive Mobile Chair with Casters](https://arxiv.org/abs/2608.28090)". *2026 IEEE-RAS 25th International Conference on Humanoid Robots (Humanoids)*, Santa Clara, December 2026.
         1. Tin Mišić, Takato Horii. "[Sensory Precision Inference for Multimodal Arbitration under Uncertainty](https://arxiv.org/abs/2609.15065)". *7th International Workshop on Active Inference (IWAI 2026)*, Madrid, October 2026.
         1. Kentaro Nomura, Takato Horii. "Social Reality Construction via Active Inference: Modeling the Dialectic of Conformity and Creativity". *2026 Conference on Artificial Life (ALIFE)*, Waterloo, August 2026.
@@ -213,10 +216,22 @@ sections:
         1. Kiril Kiryazov, Vikram Narayan, Christian Becker-Asano, Giorgio Metta, Robert Lowe, Tom Ziemke, Takato Horii, Hector Barron. "Multimodal Emotion Recognition and Behaviour Modulation via Appraisal Model of Affect with iCub Robot". *EUCogIII Conference*, Denmark, August 2012.
 
   - block: markdown
+    id: preprints
+    content:
+      title: プレプリント
+      text: |
+        1. Yuria Shimizu, Soh Takahashi, Takato Horii, Masafumi Oizumi. "[Relational Knowledge Distillation Brings DNN Representations Close Enough to Humans to Be Aligned Without Supervision](https://arxiv.org/abs/2608.27877)". *arXiv:2608.27877*, 2026.
+        1. Siddharth Padmanabhan, Kazuki Miyazawa, Takato Horii. "[VENOM: Versatile Embodied Network for Omni-bodied Motion tracking](https://arxiv.org/abs/2606.16696)". *arXiv:2606.16696*, 2026.
+        1. Yushi Tsubamoto, Takato Horii. "[Dynamic Representational Synchrony through Collective Predictive Coding: A Computational Model of Parent-Infant Homeostatic Co-Regulation](https://arxiv.org/abs/2605.07524)". *arXiv:2605.07524*, 2026.
+
+  - block: markdown
     id: domestic-proceedings
     content:
       title: 国内会議
       text: |
+        1. 堀井 隆斗. 「内受容的恒常性と社会的同期の競合：能動的推論による集団の位相同期と空間分化」. 日本発達神経科学会第15回学術集会, 早稲田大学, 2026.11.
+        1. Tin Mišić, 堀井 隆斗. 「マルチモーダル能動的推論における精度依存的表象ダイナミクス：ASD・ADHDへの予備的検討」. 日本発達神経科学会第15回学術集会, 早稲田大学, 2026.11.
+        1. 鍔本 侑志, 堀井 隆斗. 「親子間アロスタシス共制御と潜在表象同期の計算モデル」. 日本発達神経科学会第15回学術集会, 早稲田大学, 2026.11.
         1. 柳田 栞吾, 宮澤 和貴, 堀井 隆斗. 「移動式椅子に着座したヒューマノイドのSeated Locomotion」. 第44回日本ロボット学会学術講演会, 2026.9.
         1. 加藤 崇, 青木 達哉, 吉川 雄一郎, 堀井 隆斗. 「VLAによるヒューマノイドの会話陣形参加行動の獲得」. ロボティクス・メカトロニクス講演会2026, 2026.6.
         1. 阿部 右京, 宮澤 和貴, 堀井 隆斗. 「静音性を考慮したヒューマノイドの歩行動作獲得」. ロボティクス・メカトロニクス講演会2026, 2026.6.
