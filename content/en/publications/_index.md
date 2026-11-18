@@ -76,6 +76,7 @@ sections:
     content:
       title: Journal Papers
       text: |
+        1. Site Hu, Takato Horii. "[SADP: Subgoal-Aware Diffusion Policy for Long-Horizon Manipulation Learned from Foundation Model Generated Demonstrations](https://arxiv.org/abs/2605.16871)". *IEEE Robotics and Automation Letters*, 2026 (accepted).
         1. Kento Kawaharazuka, Shunki Itadera, Kohei Honda, Takato Horii, Asako Kanezaki, Taisuke Kobayashi, Kenji Koide, Shuhei Kurita, Koshi Makihara, Kazuki Miyazawa, Masaki Murooka, Yuki Onishi, Satoshi Yagi, Satoshi Yamamori. "[From Instruction to Inheritance: Scaling Robot Learning Through Knowledge Circulation](https://doi.org/10.1002/aisy.70564)". *Advanced Intelligent Systems*, e70564, 2026.
         1. Xiaoxu Feng, Takato Horii. "[Distance-Aware World Model-based Reinforcement Learning for Mobile Manipulation Behaviors](https://doi.org/10.1109/ACCESS.2026.3695694)". *IEEE Access*, Vol. 14, pp. 78614-78629, 2026.
         1. Seiichi Yamamoto, Hiroki Ishizuka, Takumi Kawasetsu, Koh Hosoda, Takayuki Kameoka, Kango Yanagida, Takato Horii, Yusuke Sakaue, Sei Ikeda, Osamu Oshiro. "[External Photoreflective Tactile Sensing Based on Surface Deformation Measurement](https://doi.org/10.1109/JSEN.2026.3686632)". *IEEE Sensors Journal*, Vol. 26, No. 11, pp. 17634-17646, 2026.
