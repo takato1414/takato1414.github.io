@@ -137,7 +137,7 @@ sections:
     content:
       title: 書籍
       text: |
-        1. 伊藤 守, 有元 健 編. 『[身体と情動（マテリアル／アフェクトの人文知 2）](https://www.utp.or.jp/book/b10194776.html)』. 東京大学出版会, 2026. ISBN: 9784130552523. 担当章：堀井 隆斗, 谷口 忠大. 第8章「身体内外の相互作用から創発された記号過程としての情動」.
+        1. 伊藤 守, 有元 健 編. 『[アフェクト・スタディーズ　身体と情動（マテリアル／アフェクトの人文知 2）](https://www.utp.or.jp/book/b10194776.html)』. 東京大学出版会, 2026. ISBN: 9784130552523. 担当章：堀井 隆斗, 谷口 忠大. 第8章「身体内外の相互作用から創発された記号過程としての情動」.
         1. Tadahiro Taniguchi (Ed.). *Symbol Emergence Systems: An Interdisciplinary Discussion about Cognition, Language and Society*. Springer Singapore, 2026. DOI: 10.1007/978-981-95-1327-7. 担当章：Takato Horii. Chapter Ⅲ-3 "Curiosity and Exploration: Why Do We Want to Learn?" (pp. 91–96); Chapter Ⅲ-4 "Emotion and Predictive Processing: How Are Emotions Made?" (pp. 97–103).
         1. 谷口 忠大 編. 『記号創発システム論―来るべきAI共生社会の「意味」理解にむけて（ワードマップ）』. 新曜社, 2024. ISBN: 9784788518544. 担当章：堀井 隆斗. Ⅲ-3「好奇心と探索 — 私たちはなぜ学ぼうとするのか？」, Ⅲ-4「感情と予測的処理 — 感情はどのように生まれるのか？」.
 
