@@ -76,6 +76,7 @@ sections:
     content:
       title: Journal Papers
       text: |
+        1. Gabriel Peixoto De Carvalho, Fernanda Miyuki Yamada, Hiroki Takahashi, Tetsuya Sawanobori, Takato Horii. "[Integrating Collision Feedback into Vision-Language-Action Models for Safe Shared Space Operations](https://doi.org/10.1109/ACCESS.2026.3756214)". *IEEE Access*, 2026 (Early Access).
         1. Xiaoxu Feng, Takato Horii. "[Offline World Model-Based Reinforcement Learning for Mobile Manipulation Behaviors](https://doi.org/10.1109/ACCESS.2026.3748031)". *IEEE Access*, Vol. 14, pp. 173163-173179, 2026.
         1. Site Hu, Takato Horii. "[SADP: Subgoal-Aware Diffusion Policy for Long-Horizon Manipulation Learned from Foundation Model Generated Demonstrations](https://arxiv.org/abs/2605.16871)". *IEEE Robotics and Automation Letters*, 2026 (accepted).
         1. Kento Kawaharazuka, Shunki Itadera, Kohei Honda, Takato Horii, Asako Kanezaki, Taisuke Kobayashi, Kenji Koide, Shuhei Kurita, Koshi Makihara, Kazuki Miyazawa, Masaki Murooka, Yuki Onishi, Satoshi Yagi, Satoshi Yamamori. "[From Instruction to Inheritance: Scaling Robot Learning Through Knowledge Circulation](https://doi.org/10.1002/aisy.70564)". *Advanced Intelligent Systems*, e70564, 2026.
