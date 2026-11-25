@@ -76,7 +76,7 @@ sections:
     content:
       title: Journal Papers
       text: |
-        1. Tetsunari Inamura, Takato Horii, Shingo Shimoda, Makoto Kureha, Minoru Asada. "[Self-mirroring twins: reframing persuasive technology through adjustable self–other boundaries for metacognitive behavior change](https://doi.org/10.3389/frai.2026.1982916)". *Frontiers in Artificial Intelligence*, Vol. 9, 1982916, 2026.
+        1. Tetsunari Inamura, Takato Horii, Shingo Shimoda, Makoto Kureha, Minoru Asada. "[Self-mirroring twins: reframing persuasive technology through adjustable self–other boundaries for metacognitive behavior change](https://doi.org/10.3389/frai.2026.1982916)". *Frontiers in Artificial Intelligence*, Vol. 9, 1982916, 2026 (Concept paper of the JST CREST SeMT project).
         1. Gabriel Peixoto De Carvalho, Fernanda Miyuki Yamada, Hiroki Takahashi, Tetsuya Sawanobori, Takato Horii. "[Integrating Collision Feedback into Vision-Language-Action Models for Safe Shared Space Operations](https://doi.org/10.1109/ACCESS.2026.3756214)". *IEEE Access*, 2026 (Early Access, Perspective Paper).
         1. Xiaoxu Feng, Takato Horii. "[Offline World Model-Based Reinforcement Learning for Mobile Manipulation Behaviors](https://doi.org/10.1109/ACCESS.2026.3748031)". *IEEE Access*, Vol. 14, pp. 173163-173179, 2026.
         1. Site Hu, Takato Horii. "[SADP: Subgoal-Aware Diffusion Policy for Long-Horizon Manipulation Learned from Foundation Model Generated Demonstrations](https://arxiv.org/abs/2605.16871)". *IEEE Robotics and Automation Letters*, 2026 (accepted).
